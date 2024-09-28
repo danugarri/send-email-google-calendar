@@ -1,0 +1,9 @@
+{
+  "name": "send-email-google-calendar",
+  "version": "1.0.0",
+  "description": "This is a repo to automate a proccess consisting of sending an email to the corresponding client when a meeting is added to google calendar",
+  "scripts": {
+  },
+  "author": "Danugarri",
+  "license": "ISC"
+}
